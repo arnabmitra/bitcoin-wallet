@@ -1,0 +1,46 @@
+#btn-close {
+    -fx-background-radius: 20%;
+    -fx-border-radius: 20%;
+    -fx-background-repeat: stretch;
+    -fx-background-size: 20 20;
+    -fx-background-position: center center;
+    -fx-background-image: url("close.png");
+}
+
+#btn-refresh {
+    -fx-background-image: url("resources/refresh.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 10 10;
+    -fx-background-position: center center;
+}
+
+
+#btn-copy {
+    -fx-background-image: url("resources/clipboards.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 20 20;
+    -fx-background-position: center center;
+}
+
+#qr-display {
+    -fx-background-color: #eeeeee;
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+    -fx-borer-width: 1;
+    -fx-border-color: #b8b8b6;
+}
+
+
+#btn-copy-address {
+    -fx-background-image: url("copy.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 20 20;
+    -fx-background-position: center center;
+}
+
+#btn-download-qrcode {
+    -fx-background-image: url("download.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 20 20;
+    -fx-background-position: center center;
+}
